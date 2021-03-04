@@ -1,6 +1,6 @@
 # ytfzf
 
-A posix script that helps you find Youtube videos (with out API) and opens/downloads using mpv/youtube-dl.a
+A posix script that helps you find Youtube videos (with out API) and opens/downloads using mpv/youtube-dl.aa
 * Thumbnails
 * History support
 * Download support
